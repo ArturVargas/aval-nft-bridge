@@ -16,4 +16,7 @@ The remote tokens are designed to have the same metadata and the origin smart co
 2. [Implement Teleporter on Subnet](https://github.com/ava-labs/teleporter)
 3. Deploy a Smart Contract NFT on fuji c-chain
 4. You can mint sending messages with the same nft metadata
+
+[!Diagram](https://github.com/ArturVargas/aval-nft-bridge/blob/main/photo_2024-07-09%2002.17.49.jpeg)
+
    

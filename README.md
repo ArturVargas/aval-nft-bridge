@@ -9,3 +9,11 @@ Home contract instances specify the asset to be transferred as either an ERC721 
 ERC721 —> ERC721
 
 The remote tokens are designed to have the same metadata and the origin smart contract address as reference.
+
+## How to develop
+
+1. Create a Subnet connected on Fuji
+2. [Implement Teleporter on Subnet](https://github.com/ava-labs/teleporter)
+3. Deploy a Smart Contract NFT on fuji c-chain
+4. You can mint sending messages with the same nft metadata
+   
